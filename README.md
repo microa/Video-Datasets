@@ -17,6 +17,8 @@
 
 ### Human-Actions
 
+<br> [Kinetics](https://github.com/cvdfoundation/kinetics-dataset): Kinetics is a collection of large-scale, high-quality datasets of URL links of up to 650,000 video clips that cover 400/600/700 human action classes, depending on the dataset version. The videos include human-object interactions such as playing instruments, as well as human-human interactions such as shaking hands and hugging. Each action class has at least 400/600/700 video clips. Each clip is human annotated with a single action class and lasts around 10 seconds.
+
 <br> [GAMING DATASETS](http://velastin.dynu.com/G3D/index.html): We captured single and multiplayer gaming datasets for public use, both containing synchronised colour, depth and skeleton data. For an overview of these datasets please see the table below, for more details or to download a dataset please follow the dataset links. Due to the formats selected, it is possible to view all the recorded data and metadata without any special software tools. For compatibility the same formats were used for both datasets. 
 
 <br> [PAMELA UANDES DATASET](http://videodatasets.org/PAMELA-UANDES): The objective of the project is to study passenger behaviour and its relation to the environment, as they get on and off a public transport vehicle, in this case a full-scale metropolitan train model. 
