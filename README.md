@@ -33,3 +33,7 @@
 
 <br> [MOTOR BIKE DATASET](http://videodatasets.org/UrbanMotorbike): We captured a video sequence datasets for public use, which contain images taken with a Phantom 4® drone, with an HD camera under windy conditions, which affected the image stabilizer capabilities.  Images were resized to 640 x 364 pixels, containing 41,040 to 56,975 ROI annotated objects, with a minimal height size set to 25 pixels. 60% of the annotated data corresponds to occluded motorcycles. Objects partially occluded with height less than 25 pixels were not annotated.
 
+### Mixed
+
+<br> [https://research.google.com/youtube8m/index.html](https://research.google.com/youtube8m/index.html): The YouTube-8M Segments dataset is an extension of the YouTube-8M dataset with human-verified segment annotations. In addition to annotating videos, we would like to temporally localize the entities in the videos, i.e., find out when the entities occur.
+
