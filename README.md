@@ -23,6 +23,8 @@
 
 <br> [BOSS DATASET](http://videodatasets.org/BOSSdata): The BOSS dataset is a fairly realistic dataset for pose, action and interaction recognition. It was originally captured as part of the Eureka's Celtic Initiative "BOSS : On Board Wireless Secured Video Surveillance BOSS" project. It consists of video/audio recordings of acted actions inside a moving train. It used multiple calibrated cameras.
 
+<br> [MPII Human Pose Dataset](http://human-pose.mpi-inf.mpg.de/): MPII Human Pose dataset is a state of the art benchmark for evaluation of articulated human pose estimation. The dataset includes around 25K images containing over 40K people with annotated body joints. The images were systematically collected using an established taxonomy of every day human activities. Overall the dataset covers 410 human activities and each image is provided with an activity label. Each image was extracted from a YouTube video and provided with preceding and following un-annotated frames. In addition, for the test set we obtained richer annotations including body part occlusions and 3D torso and head orientations. 
+
 ### Object
 
 <br> [THE UTUAV URBAN TRAFFIC DATASET](http://videodatasets.org/UTUAV): We present the UTUAV dataset which consists of three different scenes captured in the second largest city of Colombia: Medellín. Road user classes representative of those in emerging countries such as Colombia, have been choosen: motorcycles (MC), light vehicles (LV) and heavy vehicles (HV). 
