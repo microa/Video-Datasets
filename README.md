@@ -27,7 +27,7 @@
 
 <br> [MPII Human Pose Dataset](http://human-pose.mpi-inf.mpg.de/): MPII Human Pose dataset is a state of the art benchmark for evaluation of articulated human pose estimation. The dataset includes around 25K images containing over 40K people with annotated body joints. The images were systematically collected using an established taxonomy of every day human activities. Overall the dataset covers 410 human activities and each image is provided with an activity label. Each image was extracted from a YouTube video and provided with preceding and following un-annotated frames. In addition, for the test set we obtained richer annotations including body part occlusions and 3D torso and head orientations. 
 
-<br> [NTU RGB+D](https://rose1.ntu.edu.sg/dataset/actionRecognition/): "NTU RGB+D" is a large-scale dataset for human action recognition. [Github](https://github.com/shahroudy/NTURGB-D) It is introduced in our CVPR 2016 paper [PDF](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shahroudy_NTU_RGBD_A_CVPR_2016_paper.pdf).
+<br> [NTU RGB+D](https://rose1.ntu.edu.sg/dataset/actionRecognition/): "NTU RGB+D" is a large-scale dataset for human action recognition. [Github](https://github.com/shahroudy/NTURGB-D) It is introduced in their CVPR 2016 paper [PDF](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shahroudy_NTU_RGBD_A_CVPR_2016_paper.pdf).
 
 ### Object
 
