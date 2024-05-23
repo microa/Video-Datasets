@@ -31,9 +31,9 @@
 
 ### Object
 
-<br> [THE UTUAV URBAN TRAFFIC DATASET](http://videodatasets.org/UTUAV): We present the UTUAV dataset which consists of three different scenes captured in the second largest city of Colombia: Medellín. Road user classes representative of those in emerging countries such as Colombia, have been choosen: motorcycles (MC), light vehicles (LV) and heavy vehicles (HV). 
+<br> [THE UTUAV URBAN TRAFFIC DATASET](http://videodatasets.org/UTUAV): The dataset provider present the UTUAV dataset which consists of three different scenes captured in the second largest city of Colombia: Medellín. Road user classes representative of those in emerging countries such as Colombia, have been choosen: motorcycles (MC), light vehicles (LV) and heavy vehicles (HV). 
 
-<br> [MOTOR BIKE DATASET](http://videodatasets.org/UrbanMotorbike): We captured a video sequence datasets for public use, which contain images taken with a Phantom 4® drone, with an HD camera under windy conditions, which affected the image stabilizer capabilities.  Images were resized to 640 x 364 pixels, containing 41,040 to 56,975 ROI annotated objects, with a minimal height size set to 25 pixels. 60% of the annotated data corresponds to occluded motorcycles. Objects partially occluded with height less than 25 pixels were not annotated.
+<br> [MOTOR BIKE DATASET](http://videodatasets.org/UrbanMotorbike): The dataset provider captured a video sequence datasets for public use, which contain images taken with a Phantom 4® drone, with an HD camera under windy conditions, which affected the image stabilizer capabilities.  Images were resized to 640 x 364 pixels, containing 41,040 to 56,975 ROI annotated objects, with a minimal height size set to 25 pixels. 60% of the annotated data corresponds to occluded motorcycles. Objects partially occluded with height less than 25 pixels were not annotated.
 
 ### Mixed
 
