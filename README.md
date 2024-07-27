@@ -28,15 +28,15 @@
             <li><a href="http://velastin.dynu.com/G3D/index.html">GAMING DATASETS</a></li>
             <li><a href="http://videodatasets.org/PAMELA-UANDES">PAMELA UANDES DATASET</a></li>
             <li><a href="http://videodatasets.org/BOSSdata">BOSS DATASET</a></li>
-            <li><a href="http://human-pose.mpi-inf.mpg.de/">MPII Human Pose Dataset</a>[Keypoints/Skeleton]</li>
+            <li><a href="http://human-pose.mpi-inf.mpg.de/">MPII Human Pose Dataset</a>[keypoints/skeleton]</li>
             <li><a href="https://rose1.ntu.edu.sg/dataset/actionRecognition/">NTU RGB+D</a> [<a href="https://github.com/shahroudy/NTURGB-D">Github</a>]</li>
             <li><a href="http://velastin.dynu.com/VIHASI/">ViHASi</a></li>
             <li><a href="http://velastin.dynu.com/MuHAVi-MAS/">MuHAVi</a></li>
             <li><a href="https://personal.utdallas.edu/~kehtar/UTD-MHAD.html">UTD-MHAD</a></li>
             <li><a href="https://homeactiongenome.org/">Home Action Genome</a>[70/453 clases]</li>
-            <li><a href="http://vision.imar.ro/human3.6m/description.php">Human3.6M</a>[Keypoints/Skeleton]</li>
-            <li><a href="https://amass.is.tue.mpg.de/">AMASS</a>[Keypoints/Skeleton]</li>
-            <li><a href="https://virtualhumans.mpi-inf.mpg.de/3DPW/">3DPW</a>[Keypoints/Skeleton]</li>
+            <li><a href="http://vision.imar.ro/human3.6m/description.php">Human3.6M</a>[keypoints/skeleton]</li>
+            <li><a href="https://amass.is.tue.mpg.de/">AMASS</a>[keypoints/skeleton]</li>
+            <li><a href="https://virtualhumans.mpi-inf.mpg.de/3DPW/">3DPW</a>[keypoints/skeleton]</li>
           </ul>
         </li>
         <li>Human Fall Down/
