@@ -31,15 +31,17 @@
             <li><a href="http://videodatasets.org/BOSSdata">BOSS DATASET</a></li>
             <li><a href="http://human-pose.mpi-inf.mpg.de/">MPII Human Pose Dataset</a></li>
             <li><a href="https://rose1.ntu.edu.sg/dataset/actionRecognition/">NTU RGB+D</a> [<a href="https://github.com/shahroudy/NTURGB-D">Github</a>]</li>
+            <li><a href="http://velastin.dynu.com/VIHASI/">ViHASi</a></li>
+            <li><a href="http://velastin.dynu.com/MuHAVi-MAS/">MuHAVi</a></li>
           </ul>
         </li>
         <li>Human Fall Down/
           <ul>
             <li><a href="http://fenix.ur.edu.pl/~mkepski/ds/uf.html">UR Fall Detection Dataset</a></li>
             <li><a href="https://www.iro.umontreal.ca/~labimage/Dataset/">Multiple cameras fall dataset</a></li>
-            <li><a href="http://velastin.dynu.com/VIHASI/">ViHASi: Virtual Human Action Silhouette Data</a></li>
+            
             <li><a href="http://videodatasets.org/">Video Datasets</a></li>
-            <li><a href="http://velastin.dynu.com/MuHAVi-MAS/">MuHAVi: Multicamera Human Action Video Data</a></li>
+            
             <li><a href="https://sites.google.com/up.edu.mx/har-up/">FALL-UP DATASET</a> [<a href="https://github.com/jpnm561/HAR-UP">Github</a>]</li>
           </ul>
         </li>
