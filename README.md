@@ -2,8 +2,6 @@
 
 ### Sort-by-task
 
-# Video Datasets
-
 <div style="font-family:monospace;">
   <ul>
     <li>Human/
