@@ -13,6 +13,7 @@
       <ul>
         <li><a href="http://videodatasets.org/UTUAV">THE UTUAV URBAN TRAFFIC DATASET</a></li>
         <li><a href="http://videodatasets.org/UrbanMotorbike">MOTOR BIKE DATASET</a></li>
+        <li><a href="https://rse-lab.cs.washington.edu/projects/posecnn/">YCB-Video</a>[<a href="https://github.com/yuxng/YCB_Video_toolbox">Github</a>]</li>
       </ul>
     </li>
     <li>Human/
@@ -75,6 +76,11 @@
       <ul>
         <li><a href="http://videodatasets.org/UTUAV">THE UTUAV URBAN TRAFFIC DATASET</a></li>
         <li><a href="http://videodatasets.org/UrbanMotorbike">MOTOR BIKE DATASET</a></li>
+      </ul>
+    </li>
+    <li>Segment Labels/
+      <ul>
+        <li><a href="https://rse-lab.cs.washington.edu/projects/posecnn/">YCB-Video</a>[<a href="https://github.com/yuxng/YCB_Video_toolbox">Github</a>]</li>
       </ul>
     </li>
     <li>Keypoints & Skeleton/
