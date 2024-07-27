@@ -22,12 +22,15 @@
         <li>Human Action/
           <ul>
             <li><a href="https://github.com/cvdfoundation/kinetics-dataset">Kinetics</a></li>
+            <li><a href="https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/">HMDB51</a>
+            <li><a href="https://www.crcv.ucf.edu/data/UCF101.php">UCF101</a>
+            <li><a href="https://research.google.com/ava/index.html">Google AVA</a>
+            <li><a href="https://github.com/gtoderici/sports-1m-dataset/">Sports-1M</a>
             <li><a href="http://velastin.dynu.com/G3D/index.html">GAMING DATASETS</a></li>
             <li><a href="http://videodatasets.org/PAMELA-UANDES">PAMELA UANDES DATASET</a></li>
             <li><a href="http://videodatasets.org/BOSSdata">BOSS DATASET</a></li>
             <li><a href="http://human-pose.mpi-inf.mpg.de/">MPII Human Pose Dataset</a></li>
             <li><a href="https://rose1.ntu.edu.sg/dataset/actionRecognition/">NTU RGB+D</a> [<a href="https://github.com/shahroudy/NTURGB-D">Github</a>]</li>
-            <li><a href="https://research.google.com/ava/index.html">Google AVA</a>
           </ul>
         </li>
         <li>Human Fall Down/
