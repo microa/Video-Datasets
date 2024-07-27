@@ -6,14 +6,14 @@
   <ul>
     <li>Events/
       <ul>
-        <li><a href="http://moments.csail.mit.edu/">Moments in Time</a>[Classes]</li>
+        <li><a href="http://moments.csail.mit.edu/">Moments in Time</a>[classes]</li>
       </ul>
     </li>
     <li>Object/
       <ul>
-        <li><a href="http://videodatasets.org/UTUAV">THE UTUAV URBAN TRAFFIC DATASET</a>[Bounding Boxes]</li>
-        <li><a href="http://videodatasets.org/UrbanMotorbike">MOTOR BIKE DATASET</a>[Bounding Boxes]</li>
-        <li><a href="https://rse-lab.cs.washington.edu/projects/posecnn/">YCB-Video</a>[<a href="https://github.com/yuxng/YCB_Video_toolbox">Github</a>][Segment]</li>
+        <li><a href="http://videodatasets.org/UTUAV">THE UTUAV URBAN TRAFFIC DATASET</a>[bounding boxes]</li>
+        <li><a href="http://videodatasets.org/UrbanMotorbike">MOTOR BIKE DATASET</a>[bounding boxes]</li>
+        <li><a href="https://rse-lab.cs.washington.edu/projects/posecnn/">YCB-Video</a>[<a href="https://github.com/yuxng/YCB_Video_toolbox">Github</a>][segment]</li>
       </ul>
     </li>
     <li>Human/
