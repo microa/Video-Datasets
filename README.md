@@ -21,7 +21,7 @@
         </li>
         <li>Human Action/
           <ul>
-            <li><a href="https://github.com/cvdfoundation/kinetics-dataset">Kinetics</a></li>
+            <li><a href="https://github.com/cvdfoundation/kinetics-dataset">Kinetics</a>[400/600/700classes]</li>
             <li><a href="https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/">HMDB51</a>
             <li><a href="https://www.crcv.ucf.edu/data/UCF101.php">UCF101</a>
             <li><a href="https://research.google.com/ava/index.html">Google AVA</a>
