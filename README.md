@@ -52,7 +52,6 @@
           <ul>
             <li><a href="https://mmlab.ie.cuhk.edu.hk/projects/socialrelation/index.html">Social Relation Traits Face Images</a></li>
             <li><a href="https://ibug.doc.ic.ac.uk/resources/first-affect-wild-challenge/">First Affect-in-the-Wild Challenge</a></li>
-            
           </ul>
         </li>
       </ul>
