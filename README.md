@@ -27,6 +27,7 @@
             <li><a href="http://videodatasets.org/BOSSdata">BOSS DATASET</a></li>
             <li><a href="http://human-pose.mpi-inf.mpg.de/">MPII Human Pose Dataset</a></li>
             <li><a href="https://rose1.ntu.edu.sg/dataset/actionRecognition/">NTU RGB+D</a> [<a href="https://github.com/shahroudy/NTURGB-D">Github</a>]</li>
+            <li><a href="https://research.google.com/ava/index.html">Google AVA</a>
           </ul>
         </li>
         <li>Human Fall Down/
