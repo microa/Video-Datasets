@@ -11,7 +11,7 @@ video-datasets/<br>
 │   │   │──[Video Datasets](http://videodatasets.org/)<br>
 │   │   │──[MuHAVi: Multicamera Human Action Video Data](http://velastin.dynu.com/MuHAVi-MAS/)<br>
 │   │   └──[FALL-UP DATASET](https://sites.google.com/up.edu.mx/har-up/)[Github](https://github.com/jpnm561/HAR-UP)<br>
-│   │── Human Pose
+│   │── Human Pose<br>
 │   │   │──[Human3.6M](http://vision.imar.ro/human3.6m/description.php)<br>
 │   │   │──[AMASS](https://amass.is.tue.mpg.de/)<br>
 │   │   └──[3DPW](https://virtualhumans.mpi-inf.mpg.de/3DPW/)<br>
