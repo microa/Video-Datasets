@@ -4,6 +4,12 @@
 
 <div style="font-family:monospace;">
   <ul>
+    <li>Object/
+      <ul>
+        <li><a href="http://videodatasets.org/UTUAV">THE UTUAV URBAN TRAFFIC DATASET</a></li>
+        <li><a href="http://videodatasets.org/UrbanMotorbike">MOTOR BIKE DATASET</a></li>
+      </ul>
+    </li>
     <li>Human/
       <ul>
         <li>Human Pose/
@@ -33,12 +39,6 @@
             <li><a href="https://sites.google.com/up.edu.mx/har-up/">FALL-UP DATASET</a> [<a href="https://github.com/jpnm561/HAR-UP">Github</a>]</li>
           </ul>
         </li>
-      </ul>
-    </li>
-    <li>Object/
-      <ul>
-        <li><a href="http://videodatasets.org/UTUAV">THE UTUAV URBAN TRAFFIC DATASET</a></li>
-        <li><a href="http://videodatasets.org/UrbanMotorbike">MOTOR BIKE DATASET</a></li>
       </ul>
     </li>
     <li>Mixed/
