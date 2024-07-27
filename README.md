@@ -39,9 +39,7 @@
           <ul>
             <li><a href="http://fenix.ur.edu.pl/~mkepski/ds/uf.html">UR Fall Detection Dataset</a></li>
             <li><a href="https://www.iro.umontreal.ca/~labimage/Dataset/">Multiple cameras fall dataset</a></li>
-            
             <li><a href="http://videodatasets.org/">Video Datasets</a></li>
-            
             <li><a href="https://sites.google.com/up.edu.mx/har-up/">FALL-UP DATASET</a> [<a href="https://github.com/jpnm561/HAR-UP">Github</a>]</li>
           </ul>
         </li>
