@@ -2,7 +2,7 @@
 
 ### Sort-by-task
 
-
+```markdown
 video-datasets/<br>
 │── Human/<br>
 │   │── Human Fall Down/<br>
@@ -37,13 +37,3 @@ video-datasets/<br>
 updating....
 
 
-```markdown
-## 文件说明
-
-| 文件夹/文件     | 描述           |
-|-----------------|----------------|
-| `folder1/`      | 第一个文件夹   |
-| `folder1/file1.txt` | 文件1        |
-| `folder1/file2.txt` | 文件2        |
-| `folder2/`      | 第二个文件夹   |
-| `folder2/file3.txt` | 文件3        |
