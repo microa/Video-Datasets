@@ -6,7 +6,7 @@
   <ul>
     <li>Events/
       <ul>
-        <li><a href="http://moments.csail.mit.edu/"></a>Moments in Time</li>
+        <li><a href="http://moments.csail.mit.edu/">Moments in Time</a></li>
       </ul>
     </li>
     <li>Object/
