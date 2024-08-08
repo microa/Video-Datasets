@@ -30,6 +30,7 @@
           <ul>
             <li><a href="https://github.com/cvdfoundation/kinetics-dataset">Kinetics</a>[400/600/700 classes]</li>
             <li><a href="https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/">HMDB51</a>
+            <li><a href="https://www.crcv.ucf.edu/data/UCF50.php">UCF50</a>
             <li><a href="https://www.crcv.ucf.edu/data/UCF101.php">UCF101</a>
             <li><a href="https://research.google.com/ava/index.html">Google AVA</a>
             <li><a href="https://github.com/gtoderici/sports-1m-dataset/">Sports-1M</a>
@@ -45,6 +46,9 @@
             <li><a href="http://vision.imar.ro/human3.6m/description.php">Human3.6M</a>[keypoints/skeleton]</li>
             <li><a href="https://amass.is.tue.mpg.de/">AMASS</a>[keypoints/skeleton]</li>
             <li><a href="https://virtualhumans.mpi-inf.mpg.de/3DPW/">3DPW</a>[keypoints/skeleton]</li>
+            <li><a href="https://www.csc.kth.se/cvap/actions/">KTH Action dataset</a>[class]</li>
+            <li><a href="http://vuchallenge.org/charades.html">Charades Challenge</a>[class]</li>
+            <li><a href="http://activity-net.org/">ActivityNet</a>[class]</li>
           </ul>
         </li>
         <li>Human Fall Down/
