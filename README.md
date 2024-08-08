@@ -10,6 +10,11 @@
         <li><a href="https://robotvault.bitbucket.io/introduction.html">SceneNet</a>[3d]</li>
         <li><a href="https://www.cvlibs.net/datasets/kitti/eval_road.php">KITTI Road Dataset</a>[Classes]</li>
         <li><a href="https://developer.qualcomm.com/software/ai-datasets/something-something">Something-Something</a>[Classes]</li>
+        <li><a href="https://www.microsoft.com/en-us/research/publication/msr-vtt-a-large-video-description-dataset-for-bridging-video-and-language/">MSR-VTT</a>[Classes][clips]</li>
+        <li><a href="https://coin-dataset.github.io/">COIN</a>[Classes][clips]</li>
+        <li><a href="https://github.com/LisaAnne/TemporalLanguageRelease">DiDeMo</a>[Classes][clips]</li>
+        <li><a href="https://github.com/DmZhukov/CrossTask">CrossTask</a>[Classes][clips]</li>
+        <li><a href="http://youcook2.eecs.umich.edu/">YouCook2</a>[Classes][clips]</li>
       </ul>
     </li>
     <li>Object/
