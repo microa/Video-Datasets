@@ -29,7 +29,7 @@
         <li>Human Action/
           <ul>
             <li><a href="https://github.com/cvdfoundation/kinetics-dataset">Kinetics</a>[400/600/700 classes][700 Classes 650,000 videos]</li>
-            <li><a href="https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/">HMDB51</a></li>
+            <li><a href="https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/">HMDB51</a>[51 classes, 6,849 videos]</li>
             <li><a href="https://www.crcv.ucf.edu/data/UCF50.php">UCF50</a>[50 classes 6,676 videos]</li>
             <li><a href="https://www.crcv.ucf.edu/data/UCF101.php">UCF101</a>[101 Classes 13,320 videos]</li>
             <li><a href="https://research.google.com/ava/index.html">Google AVA</a></li>
