@@ -28,17 +28,17 @@
       <ul>
         <li>Human Action/
           <ul>
-            <li><a href="https://github.com/cvdfoundation/kinetics-dataset">Kinetics</a>[400/600/700 classes]</li>
-            <li><a href="https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/">HMDB51</a>
-            <li><a href="https://www.crcv.ucf.edu/data/UCF50.php">UCF50</a>
-            <li><a href="https://www.crcv.ucf.edu/data/UCF101.php">UCF101</a>
-            <li><a href="https://research.google.com/ava/index.html">Google AVA</a>
-            <li><a href="https://github.com/gtoderici/sports-1m-dataset/">Sports-1M</a>
+            <li><a href="https://github.com/cvdfoundation/kinetics-dataset">Kinetics</a>[400/600/700 classes][700 Classes 650,000 videos]</li>
+            <li><a href="https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/">HMDB51</a></li>
+            <li><a href="https://www.crcv.ucf.edu/data/UCF50.php">UCF50</a>[50 classes 6,676 videos]</li>
+            <li><a href="https://www.crcv.ucf.edu/data/UCF101.php">UCF101</a>[101 Classes 13,320 videos]</li>
+            <li><a href="https://research.google.com/ava/index.html">Google AVA</a></li>
+            <li><a href="https://github.com/gtoderici/sports-1m-dataset/">Sports-1M</a>[487 classes 1,133,158 videos]</li>
             <li><a href="http://velastin.dynu.com/G3D/index.html">GAMING DATASETS</a></li>
             <li><a href="http://videodatasets.org/PAMELA-UANDES">PAMELA UANDES DATASET</a></li>
             <li><a href="http://videodatasets.org/BOSSdata">BOSS DATASET</a></li>
             <li><a href="http://human-pose.mpi-inf.mpg.de/">MPII Human Pose Dataset</a>[keypoints/skeleton]</li>
-            <li><a href="https://rose1.ntu.edu.sg/dataset/actionRecognition/">NTU RGB+D</a> [<a href="https://github.com/shahroudy/NTURGB-D">Github</a>]</li>
+            <li><a href="https://rose1.ntu.edu.sg/dataset/actionRecognition/">NTU RGB+D</a> [<a href="https://github.com/shahroudy/NTURGB-D">Github</a>][60 classes 56,880 videos]</li>
             <li><a href="http://velastin.dynu.com/VIHASI/">ViHASi</a></li>
             <li><a href="http://velastin.dynu.com/MuHAVi-MAS/">MuHAVi</a></li>
             <li><a href="https://personal.utdallas.edu/~kehtar/UTD-MHAD.html">UTD-MHAD</a></li>
